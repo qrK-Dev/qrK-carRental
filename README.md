@@ -8,7 +8,8 @@ A very basic vehicle renting system.
 
 # INFO
 - This script is standalone.
-- You will need to add features
+- You will need to add features.
+- If this gets lots of attention I can add features.
 
 # Contact info
 Discord: qrK#0652
