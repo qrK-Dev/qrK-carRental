@@ -4,7 +4,7 @@ A very basic vehicle renting system.
 # SMALL TOS
 - You can make any changes you want!
 - You can release/publish any changes you would like as long as you give me credit.
-- Do NOT sell this script
+- Do NOT sell this script or any changes made.
 
 # INFO
 - This script is standalone.
